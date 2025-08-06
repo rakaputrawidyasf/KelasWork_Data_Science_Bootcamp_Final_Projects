@@ -11,4 +11,8 @@ My final/capstone projects during KelasWork Data Science Bootcamp 2024-2025
 * Dalam case study ini, dilakukan Exploratory Data Analysis (EDA) terhadap dataset Housing Price untuk mendapatkan informasi penjualan properti yang efektif, serta dilakukan pembersihan data (data cleaning) bila diperlukan
 * Visualisasi data dilakukan menggunakan teknik visualisasi 1D dan 2D
 ### 3) Machine Learning - Alzheimer's Disease Prediction
+* Alzheimer adalah penyakit otak yang menyebabkan penurunan daya ingat, penurunan kemampuan berpikir dan berbicara, serta perubahan perilaku
+* Dalam case study ini akan dilakukan klasifikasi atau prediksi apakah seseorang terdiagnosis Alzheimer atau tidak berdasarkan data yang ada
+* Dataset yang digunakan adalah data prediksi Alzheimer global yang terdiri dari 74.283 baris data orang yang dinyatakan terdiagnosis maupun tidak dari 20 negara, serta 24 kolom/field yang terdiri dari umur (“Age”), gender, pendidikan (“Education Level”), indeks massa badan (“BMI”), dan sebagainya
+* Dalam case study ini akan digunakan beberapa model Machine Learning untuk klasifikasi data, kemudian dilakukan evaluasi untuk memilih model terbaik
 ### 4) Deep Learning - BRISC 2025 Image Classification
