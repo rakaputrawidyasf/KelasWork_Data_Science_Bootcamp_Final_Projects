@@ -16,3 +16,6 @@ My final/capstone projects during KelasWork Data Science Bootcamp 2024-2025
 * Dataset yang digunakan adalah data prediksi Alzheimer global yang terdiri dari 74.283 baris data orang yang dinyatakan terdiagnosis maupun tidak dari 20 negara, serta 24 kolom/field yang terdiri dari umur (“Age”), gender, pendidikan (“Education Level”), indeks massa badan (“BMI”), dan sebagainya
 * Dalam case study ini akan digunakan beberapa model Machine Learning untuk klasifikasi data, kemudian dilakukan evaluasi untuk memilih model terbaik
 ### 4) Deep Learning - BRISC 2025 Image Classification
+* Dalam case study ini akan dilakukan klasifikasi atau identifikasi jenis tumor otak berdasarkan data citra MRI
+* Dataset yang digunakan adalah data citra BRISC 2025 yang terdiri dari 6000 data citra MRI tumor otak untuk klasifikasi, terdiri dari 5000 data latih (train) dan 1000 data uji (test)
+* Dalam case study ini, akan digunakan sampling terhadap imbalance data, pemodelan model deep learning untuk klasifikasi citra, dan evaluasi model klasifikasi citra yang digunakan
